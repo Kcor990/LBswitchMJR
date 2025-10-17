@@ -5,7 +5,7 @@ Projekt układu do przełączania linii CAN oraz złącza DAP (JTAG) między trz
 ## 📷 Zdjęcia
 ![Płytka PCB](images/PCB.jpg)
 
-![Schemat blokowy](images/photo1.jpg)
+![Schemat blokowy](images/photo1.JPG)
 
 ![Zastosowanie](images/photo2.jpg)
 
