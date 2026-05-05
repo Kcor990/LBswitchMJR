@@ -1,5 +1,6 @@
 # LBswitch
 Projekt układu do przełączania linii CAN oraz złącza DAP (JTAG) między trzema różnymi ECU.
+Projects from automotive industry. Main feautre is switching debbuger between 3 different ECU modules (JTAG/DAP interface) and managing their supply. It is used remotely on software benches to test new revisions of SW. I was responsible for HW project, PCB assembly and integration modules on SW benches
 
 
 ## 📷 Zdjęcia
